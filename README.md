@@ -1,6 +1,4 @@
-# quick_dine
-
-# Food Restaurant Website  
+# QuickDine - Food Restaurant Website  
 
 A **Food Restaurant Website** designed to showcase the culinary excellence of a restaurant while ensuring an intuitive and visually appealing user experience.
 
